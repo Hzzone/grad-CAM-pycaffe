@@ -27,7 +27,7 @@ Related Deep Learning CNN visulization Techniques are as below.
 [Github](https://github.com/sukritshankar/CNN-Saliency-Map) 
 
 * deep-visualization-toolbox    
-[Understanding Neural Networks Through Deep Visualization](Understanding Neural Networks Through Deep Visualization)    
+[Understanding Neural Networks Through Deep Visualization](https://arxiv.org/abs/1506.06579)    
 [Github](https://github.com/yosinski/deep-visualization-toolbox)    
 
 * caffe-gradCAM     
